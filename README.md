@@ -11,9 +11,8 @@
 
 - 💬 Ask me about **Machine Learning & Game Development**
 
-- 📫 How to reach me **ryskulova_zhama@gmail.com**
+- 📫 How to reach me: **ryskulova_zhama@gmail.com**
 
 - 😄 Pronouns: She/her
 
 - ⚡ Fun fact: One day I'll snowboard on Alps.
--->
