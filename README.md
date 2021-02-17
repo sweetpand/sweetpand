@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Zhama Ryskulova </h1>
+<h3 align="center">A passionate Software Engineer in Machine Learning living in Dublin </h3>
 
-<!--
-**sweetpand/sweetpand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working at [Unity Technologies company](https://blogs.unity3d.com/category/machine-learning/)
 
-Here are some ideas to get you started:
+- 📝 I regulary write articles on [https://medium.com/@zhamaryskulova](https://medium.com/@zhamaryskulova)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🐦 Twitter: [@zham_rys](https://twitter.com/zham_rys)
+
+- 👨‍💻 Personal Webpage: https://zham_rys.github.io
+
+- 💬 Ask me about **Machine Learning & Game Development**
+
+- 📫 How to reach me **ryskulova_zhama@gmail.com**
+
+- 😄 Pronouns: She/her
+
+- ⚡ Fun fact: One day I'll snowboard on Alps.
 -->
