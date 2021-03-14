@@ -7,7 +7,7 @@
 
 - 🐦 Twitter: [@zham_rys](https://twitter.com/zham_rys)
 
-- 👨‍💻 Personal Webpage: https://zham_rys.github.io
+- 👨‍💻 Personal Webpage: https://sweetpand.github.io
 
 - 💬 Ask me about **Machine Learning & Game Development**
 
