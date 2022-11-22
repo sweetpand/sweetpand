@@ -9,7 +9,7 @@
 
 - 👨‍💻 Personal Webpage: https://sweetpand.github.io
 
-- 💬 Ask me about **Machine Learning & Game Development**
+- 💬 Ask me about **Computer Vision and Computer Graphics**
 
 - 😄 Pronouns: She/her
 
