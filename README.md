@@ -10,19 +10,15 @@
 
 <h3 align="center"> <img src="https://media1.giphy.com/media/sIw0RS82ZT32uZ9OER/giphy.gif?cid=ecf05e47pcm94q5bqx1oaoet532srl2v1h5u45z5e43qztck&rid=giphy.gif&ct=s" width="50">  Research Engineer in Computer Vision and Computer Graphics  <img src="https://media1.giphy.com/media/sIw0RS82ZT32uZ9OER/giphy.gif?cid=ecf05e47pcm94q5bqx1oaoet532srl2v1h5u45z5e43qztck&rid=giphy.gif&ct=s" width="50"> </h3>
 
-- 🔭 I’m currently working at [Unity](https://blogs.unity3d.com/category/machine-learning/)
+- <img src="https://media3.giphy.com/media/1ZDHv3943FIkvAKzMN/giphy.gif?cid=ecf05e4711ldv8gzw9jufhtw76yzd3gf30p7s9m2kcwdbxi3&rid=giphy.gif&ct=s" width="30" > I’m currently working at [Unity](https://unity.com/)
 
-- 📝 I regulary write articles on [https://medium.com/@zhamaryskulova](https://medium.com/@zhamaryskulova)
+- <img src="https://media1.giphy.com/media/WPnhLk3ItjPVxfePZb/giphy.gif?cid=ecf05e47gravmwfqlrr12zismifus4v7oda0ftvm2xdbk43j&rid=giphy.gif&ct=s" width="30" > Sometimes I can drop something on [Medium](https://medium.com/@zhamaryskulova)
 
-- 🐦 Twitter: [@zham_rys](https://twitter.com/zham_rys)
+- <img src="https://media3.giphy.com/media/H508mck9ufO9q6z76O/giphy.gif?cid=ecf05e47wi175jmg3h2wsbzu0qa70te80jgqb2sjbsginam8&rid=giphy.gif&ct=s" width="20" > Twitter: [@zham_rys](https://twitter.com/zham_rys)
 
-- 👨‍💻 Personal Webpage: https://sweetpand.github.io
+- 👨‍💻 I also have a [Webpage](https://sweetpand.github.io) which needs to be updated!<img src="https://media1.giphy.com/media/3oKIPeR9LRZtiG1nva/giphy.gif?cid=ecf05e47sr1thgqwaixf4qu42rqxx824a7vylokxz4na82vb&rid=giphy.gif&ct=s" width="30" >
 
-- 💬 Ask me about **Computer Vision and Computer Graphics**
-
-- 😄 Pronouns: She/her
-
-- ⚡ Fun fact: I'm fluent in six languages, lol
+- <img src="https://media2.giphy.com/media/JSw7z3MAipTKM9yudK/giphy.gif?cid=ecf05e470ixbsxupjzd75qjkaa9hly4kdhcy8zmbeszl3z6t&rid=giphy.gif&ct=ts" width="20" > Fun fact: I'm a pro-snowboarder in slopestyle, for more check my ig: @zham.rys <img src="https://media2.giphy.com/media/UtQeBtdj15KHfEnh5B/giphy.gif?cid=ecf05e4790dgzhmcumzs0iqga7q6eecx2reqd48iu2klfywz&rid=giphy.gif&ct=s" width="40" >
 </br>
 </br>
 
