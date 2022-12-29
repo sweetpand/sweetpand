@@ -25,7 +25,6 @@
 - ⚡ Fun fact: I'm fluent in six languages, lol
 </br>
 </br>
-</br>
 
 ## Currently working on generative ai projects: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" > 
 
@@ -46,8 +45,6 @@ https://user-images.githubusercontent.com/56076483/209968543-e9bd392b-2f27-4206-
 </br>
 </br>
 </br>
-
-
 
 
 Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
