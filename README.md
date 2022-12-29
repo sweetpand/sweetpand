@@ -1,5 +1,14 @@
 <h1 align="center">Hi 👋, I'm Zhama Ryskulova </h1>
-<h3 align="center">A passionate Software Engineer in Machine Learning living in Dublin </h3>
+
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/sweetpand/sweetpand/blob/main/avatar-neytiri.gif">
+</div>
+
+</br>
+</br>
+</br>
+
+<h3 align="center">A passionate Research Engineer in Computer Vision and Computer Graphics </h3>
 
 - 🔭 I’m currently working at [Unity](https://blogs.unity3d.com/category/machine-learning/)
 
