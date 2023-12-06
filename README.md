@@ -16,7 +16,7 @@
 
 - <img src="https://media3.giphy.com/media/H508mck9ufO9q6z76O/giphy.gif?cid=ecf05e47wi175jmg3h2wsbzu0qa70te80jgqb2sjbsginam8&rid=giphy.gif&ct=s" width="20" > Twitter: [@zham_rys](https://twitter.com/zham_rys)
 
-- 👨‍💻 I also have a [Webpage](https://sweetpand.github.io) which needs to be updated!<img src="https://media1.giphy.com/media/3oKIPeR9LRZtiG1nva/giphy.gif?cid=ecf05e47sr1thgqwaixf4qu42rqxx824a7vylokxz4na82vb&rid=giphy.gif&ct=s" width="30" >
+- 👨‍💻 I also have a [Webpage](https://sweetpand.github.io) which I try to keep up-to-date!<img src="https://media1.giphy.com/media/3oKIPeR9LRZtiG1nva/giphy.gif?cid=ecf05e47sr1thgqwaixf4qu42rqxx824a7vylokxz4na82vb&rid=giphy.gif&ct=s" width="30" >
 
 - <img src="https://media2.giphy.com/media/JSw7z3MAipTKM9yudK/giphy.gif?cid=ecf05e470ixbsxupjzd75qjkaa9hly4kdhcy8zmbeszl3z6t&rid=giphy.gif&ct=ts" width="20" > Fun fact: I'm a pro-snowboarder in slopestyle, for more check my ig: @zham.rys <img src="https://media2.giphy.com/media/UtQeBtdj15KHfEnh5B/giphy.gif?cid=ecf05e4790dgzhmcumzs0iqga7q6eecx2reqd48iu2klfywz&rid=giphy.gif&ct=s" width="40" >
 </br>
