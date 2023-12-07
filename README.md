@@ -28,6 +28,7 @@
     - Mesh-from-Image
     - Mesh-to-3D
     - Text-to-Mesh
+    - ml solutions to compress complex, unstructured visual data like deep data
 
 
 
