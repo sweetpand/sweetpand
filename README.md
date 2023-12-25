@@ -41,6 +41,11 @@ https://user-images.githubusercontent.com/56076483/209968543-e9bd392b-2f27-4206-
 https://github.com/sweetpand/sweetpand/assets/56076483/b1364182-b7a3-4bba-b3b6-2476f7fe406c
 
 
+    - Noise2NoiseMapping
+    - Learning Signed Distance Functions from Noisy 3D Point Clouds via Noise to Noise Mapping 
+
+https://github.com/sweetpand/sweetpand/assets/56076483/3a6fc6ac-e253-4701-b033-a9c84feb31c3
+
 
 
 
