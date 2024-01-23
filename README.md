@@ -29,6 +29,7 @@
     - Mesh-to-3D
     - Text-to-Mesh
     - ML solutions to compress complex, unstructured visual data like deep data, mesh, etc
+    - UpScaling and DownScaling PBR materials
 
 
 
