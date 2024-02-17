@@ -14,7 +14,7 @@
 
 - <img src="https://media1.giphy.com/media/WPnhLk3ItjPVxfePZb/giphy.gif?cid=ecf05e47gravmwfqlrr12zismifus4v7oda0ftvm2xdbk43j&rid=giphy.gif&ct=s" width="30" > Sometimes I can drop something on [Medium](https://medium.com/@zhamaryskulova)
 
-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJrbm8xMTk5aTBrZGt6bXN4OG40cWkxendmMXEzZGkzMnY4em10diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KDGLRKwIMVXV5XLieP/giphy.gif" width="20" > X: [@_zhama](https://twitter.com/_zhama)
+- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJrbm8xMTk5aTBrZGt6bXN4OG40cWkxendmMXEzZGkzMnY4em10diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KDGLRKwIMVXV5XLieP/giphy.gif" width="20" > : [@_zhama](https://twitter.com/_zhama)
 
 - 👨‍💻 I also have a [Webpage](https://sweetpand.github.io) which I try to keep up-to-date!<img src="https://media1.giphy.com/media/3oKIPeR9LRZtiG1nva/giphy.gif?cid=ecf05e47sr1thgqwaixf4qu42rqxx824a7vylokxz4na82vb&rid=giphy.gif&ct=s" width="30" >
 
