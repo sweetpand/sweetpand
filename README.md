@@ -10,7 +10,7 @@
 
 <h3 align="center"> <img src="https://media1.giphy.com/media/sIw0RS82ZT32uZ9OER/giphy.gif?cid=ecf05e47pcm94q5bqx1oaoet532srl2v1h5u45z5e43qztck&rid=giphy.gif&ct=s" width="25"> Machine Learning Research Engineer in Computer Vision and Computer Graphics  <img src="https://media1.giphy.com/media/sIw0RS82ZT32uZ9OER/giphy.gif?cid=ecf05e47pcm94q5bqx1oaoet532srl2v1h5u45z5e43qztck&rid=giphy.gif&ct=s" width="25"> </h3>
 
-- <img src="https://media3.giphy.com/media/1ZDHv3943FIkvAKzMN/giphy.gif?cid=ecf05e4711ldv8gzw9jufhtw76yzd3gf30p7s9m2kcwdbxi3&rid=giphy.gif&ct=s" width="30" > I’m currently working at [Unity](https://unity.com/)
+- <img src="https://media3.giphy.com/media/1ZDHv3943FIkvAKzMN/giphy.gif?cid=ecf05e4711ldv8gzw9jufhtw76yzd3gf30p7s9m2kcwdbxi3&rid=giphy.gif&ct=s" width="30" > I’m currently working in research on generative vision models.
 
 - <img src="https://media1.giphy.com/media/WPnhLk3ItjPVxfePZb/giphy.gif?cid=ecf05e47gravmwfqlrr12zismifus4v7oda0ftvm2xdbk43j&rid=giphy.gif&ct=s" width="30" > Sometimes I can drop something on [Medium](https://medium.com/@zhamaryskulova)
 
