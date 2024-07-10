@@ -28,8 +28,8 @@
     - Mesh-from-Image
     - Mesh-to-3D
     - Text-to-Mesh
-    - ML solutions to compress complex, unstructured visual data like deep data, mesh, etc
-    - UpScaling and DownScaling PBR materials
+    - Neural Network compression solutions for unstructured visual data like deep data, mesh, etc
+    - UpScaling and DownScaling of PBR materials by using neural networks
 
 
 
